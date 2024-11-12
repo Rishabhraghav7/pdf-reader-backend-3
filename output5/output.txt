@@ -1,0 +1,60 @@
+
+--- Page 1 ---
+Last Updated on 20th June 2024
+Rishabh Raghav V S
+| 8778142020 | rishabhraghav125@gmail.com
+EDUCATION
+COLLEGE
+B.Tech AIML
+Kongu Engineering College,Erode
+SCHOOLINGS
+HSC
+Saratha International School,Gobi
+SSLC
+C National School,Gobi
+SKILLS
+LANGUAGES KNOWN
+•C
+• Python
+• React
+•Node
+• Java
+• Javascript
+SOFT SKILLS
+•Teamwork
+• Creativity
+• Adaptability.
+•Problem-solving.
+DEV TOOLS
+•Vs Code
+•Jupyter Notebook
+•Android Studio
+PERSONAL DETAILS
+Date of Birth: Feb 01,2005
+Father’s Name:Somasundaram T V
+Mother’s Name: Prabha A D
+Languages: Tamil, English, Hindi
+EXPERIENCE
+INTERNPE
+| Student Intern
+May 2023 | Erode
+•Position :Web Development
+•Duration: MAY 2024 - JUNE 2024
+AREAS OF INTEREST
+•Full Stack Developer
+•Machine Learining Engineer
+CONFERENCE/ WORKSHOP ATTENDED
+•· Attended a workshop on How to start a startup at KEC [ TBI ]
+•Attended a Seminar on “Entrepreneurship” at KEC
+PAPER PRESENTATION
+•Raspberrypi at MIT
+•Presented paper on Skin Diseases Prediction using ML at CIT,Coimbatore.
+HACKATHONS
+•· Participated on Smart India Hackathon
+•Participated on Techathon’ 24
+•Participated on 24 Hours Hackathon
+PROJECTS DONE
+• Blog Website Using React and Node js
+•Course Selling Website Using React and Node js •Health Care Monitor
+PRIZES WON
+•1st prize in coding competition
